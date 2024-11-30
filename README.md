@@ -53,6 +53,13 @@ main_languages : ["Bash, Python, C++"]
 2024 Goals: ["Live"]
 age: 15
 
+questions_to_not_ask:
+  [
+    "Anything regarding cloud and cloud security",
+    "Mobile Application security",
+    "Android, MacOS, iOS hardening",
+  ]
+
 N1NK <3
 
 HC:E6 >6 :7 J@F 42? C625 E9:D[ :> =@@<:?8 7@C A6@A=6 =:<6 J@F
