@@ -13,21 +13,33 @@
 
 
 ```yaml
-- 🔭 I’m currently focusing on statically and dynamically analyzing samples of current thriving malware using Ghidra. 
-- 🌱 I’m currently learning static analysis with Ghidra and dynamic using OllyDbg. I rarely sandbox. 
-- 💬 Ask me about : Network Security - IDS/IPS/IDPS evasion, firewall/ngfw evasion, EIGRP, GLBP. HSRP
-                                        Questions regarding NMAP - my personal commands, techniques
-                                        Discovery of hosts from the outside - ICMP and  TCP, UDP, HTTP, SCTP ports, wireshark usage
-                     WIFI Pentesting  -  aircrack-ng suite, Wifite, Wifiphisher, cracking WPA2 PSK, WEP, WPS, capturing handshakes, evil twin
-                     Social Engineering - phishing, dynamic delivery of payloads, cloning/detecting phishing websites
-                     Web Application Security - different vulnerabilities - XSS, SQLI, CSRF, SSRF, LFI, RCE, XXE
-                                                XML/JSON, LDAP, Blind injections.... subdomain takeovers, open redirects
-                                                Usage of Burp Suite, OWASP top 10, help with Portswigger...
-                     Binary reverse engineering, exploit development, low-level knowledge, hardware/embedded devices, physical security...
-                                              
-- 📫 How to reach me: t.me/boleii655  - For personal wordlists, techniques, methodology, mentorship
-- 😄 Pronouns: he/him
-- ⚡ Age : 15
+located_in: Tomsk, Russia
+current_job: Red Teamer/Malware Analysis and Development
+education:
+  [
+    "Self-Taught Penetration Tester with secondary focus on binary reverse engineering and exploit development",
+    "Just a regular high school student",
+  ]
+
+
+fields_of_interests:
+  [
+    "Web Application Security",
+    "Network Security",
+    "Malware analysis, primarily static using Ghidra, rarely dynamic using OllyDbg",
+    "WIFI Security, Wireless pentesting",
+    "Hardware/Embedded devices",
+    "Physical Security",
+  ]
+technical_background:
+  [
+    "Aspiring Cybersecurity Engineer in the field of Red Teaming"
+  ]
+  
+currently_learning: ["Golang, Ruby, Docker, C#, Assembly"]
+languages_proficient_in : ["Bash, Python, HTML, CSS, JavaScript, Lua, C, C++..."]
+2024 Goals: ["Stay Alive"]
+N1NK <3
 ```
   
 
