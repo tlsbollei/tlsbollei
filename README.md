@@ -17,7 +17,7 @@
 - ⚡ Age : 15
 
   
-**Main Skills**
+
 [![Main Skills](https://skillicons.dev/icons?i=js,html,css,arch,bash,cs,cpp,discord,github,kali,linux,mint,powershell,py,raspberrypi,redhat,ubuntu,vim,visualstudio,vscode,windows,wordpress,git,docker,go,java,lua)](https://skillicons.dev)
 
 
