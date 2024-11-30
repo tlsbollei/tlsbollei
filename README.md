@@ -1,4 +1,10 @@
 
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg)](https://github.com/tlsbollei)
+[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg)](https://instagram.com/0fa102)
+[![Telegram](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg)](https://t.me/boleii655)
+
+
+
 
 - 🔭 I’m currently focusing on statically and dynamically analyzing samples of current thriving malware using Ghidra. 
 - 🌱 I’m currently learning static analysis with Ghidra and dynamic using OllyDbg. I rarely sandbox. 
