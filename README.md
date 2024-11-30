@@ -16,4 +16,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Age : 15
 
+  
+**Main Skills**
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,arch,bash,cs,cpp,discord,github,kali,linux,mint,powershell,py,raspberrypi,redhat,ubuntu,vim,visualstudio,vscode,windows,wordpress,git)](https://skillicons.dev)
+
+**Currently learning**
+[![My Skills](https://skillicons.dev/icons?i=docker,go,java,lua)](https://skillicons.dev)
