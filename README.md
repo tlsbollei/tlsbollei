@@ -16,18 +16,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Age : 15
 
-![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)
-![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
-![Assembly](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg)
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-![Ghidra](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ghidra/ghidra-original.svg)
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
-![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
-![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
-![Burp Suite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burp/burp-original.svg)
-![Metasploit](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg)
-![Nmap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg)
-![John the Ripper](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/john/john-original.svg)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arch,bash,cs,cpp,discord,github,kali,linux,mint,powershell,py,raspberrypi,redhat,ubuntu,vim,visualstudio,vscode,windows,wordpress,git)](https://skillicons.dev)
