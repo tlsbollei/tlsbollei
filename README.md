@@ -12,7 +12,7 @@
 </a>
 
 
-
+```yaml
 - 🔭 I’m currently focusing on statically and dynamically analyzing samples of current thriving malware using Ghidra. 
 - 🌱 I’m currently learning static analysis with Ghidra and dynamic using OllyDbg. I rarely sandbox. 
 - 💬 Ask me about : Network Security - IDS/IPS/IDPS evasion, firewall/ngfw evasion, EIGRP, GLBP. HSRP
@@ -28,7 +28,7 @@
 - 📫 How to reach me: t.me/boleii655  - For personal wordlists, techniques, methodology, mentorship
 - 😄 Pronouns: he/him
 - ⚡ Age : 15
-
+```
   
 
 [![Main Skills](https://skillicons.dev/icons?i=js,html,css,arch,bash,cs,cpp,discord,github,kali,linux,mint,powershell,py,raspberrypi,redhat,ubuntu,vim,visualstudio,vscode,windows,wordpress,git,docker,go,java,lua)](https://skillicons.dev)
