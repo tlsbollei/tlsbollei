@@ -1,7 +1,11 @@
 
+
+
 [![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg)](https://github.com/tlsbollei)
 [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg)](https://instagram.com/0fa102)
-[![Telegram](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg)](https://t.me/boleii655)
+<a href="https://t.me/your-profile">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" alt="Telegram" width="30" height="30"/>
+</a>
 
 
 
