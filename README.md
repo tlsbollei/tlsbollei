@@ -15,19 +15,25 @@
 
 
 
+
+
+
+
 ```yaml
+
 located_in: Tomsk, Russia
-current_job: Red Teamer/Malware Analysis and Development
+aspiring_job: Red Teamer/Malware Analysis and Development
 education:
   [
     "Self-Taught Penetration Tester with secondary focus on binary reverse engineering and exploit development",
+    "Fundamental coding knowledge from the age of 12, pursuing a career in cyber from the age of 13",
     "Just a regular high school student",
   ]
 
 
 fields_of_interests:
   [
-    "Web Application Security",
+    "Web Application Security - Bug Bounty Hunting",
     "Network Security",
     "Malware analysis, primarily static using Ghidra, rarely dynamic using OllyDbg",
     "WIFI Security, Wireless pentesting",
@@ -38,13 +44,17 @@ technical_background:
   [
     "Aspiring Cybersecurity Engineer in the field of Red Teaming"
   ]
-  
+
+contact : ["t.me/boleii655, boleii466@gmail.com"]
 currently_learning: ["Golang, Ruby, Docker, C#, Assembly"]
 languages_proficient_in : ["Bash, Python, HTML, CSS, JavaScript, Lua, C, C++..."]
+main_languages : ["Bash, Python, C++"]
 2024 Goals: ["Stay Alive"]
 age: 15
 
 N1NK <3
+
+HC:E6 >6 :7 J@F 42? C625 E9:D[ :> =@@<:?8 7@C A6@A=6 =:<6 J@F
 ```
   
 
