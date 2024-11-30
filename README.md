@@ -66,7 +66,7 @@ HC:E6 >6 :7 J@F 42? C625 E9:D[ :> =@@<:?8 7@C A6@A=6 =:<6 J@F
 ```
   
 
-[![Main Skills](https://skillicons.dev/icons?i=js,html,css,arch,bash,cs,cpp,discord,github,kali,linux,mint,powershell,py,raspberrypi,redhat,ubuntu,vim,visualstudio,vscode,windows,wordpress,git,docker,go,lua)](https://skillicons.dev)
+[![Main Skills](https://skillicons.dev/icons?i=js,html,css,arch,bash,cs,cpp,discord,github,kali,linux,mint,powershell,py,raspberrypi,redhat,ubuntu,vim,visualstudio,vscode,windows,wordpress)](https://skillicons.dev)
 
 
 
