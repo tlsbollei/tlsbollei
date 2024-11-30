@@ -12,6 +12,9 @@
 </a>
 
 
+
+
+
 ```yaml
 located_in: Tomsk, Russia
 current_job: Red Teamer/Malware Analysis and Development
@@ -39,10 +42,12 @@ technical_background:
 currently_learning: ["Golang, Ruby, Docker, C#, Assembly"]
 languages_proficient_in : ["Bash, Python, HTML, CSS, JavaScript, Lua, C, C++..."]
 2024 Goals: ["Stay Alive"]
+age: 15
+
 N1NK <3
 ```
   
 
-[![Main Skills](https://skillicons.dev/icons?i=js,html,css,arch,bash,cs,cpp,discord,github,kali,linux,mint,powershell,py,raspberrypi,redhat,ubuntu,vim,visualstudio,vscode,windows,wordpress,git,docker,go,java,lua)](https://skillicons.dev)
+[![Main Skills](https://skillicons.dev/icons?i=js,html,css,arch,bash,cs,cpp,discord,github,kali,linux,mint,powershell,py,raspberrypi,redhat,ubuntu,vim,visualstudio,vscode,windows,wordpress,git,docker,go,lua)](https://skillicons.dev)
 
 
