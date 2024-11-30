@@ -46,10 +46,11 @@ technical_background:
   ]
 
 contact : ["t.me/boleii655, boleii466@gmail.com"]
+guilty_pleasures : ["Hotplug Tools, On-Site Implants, "]
 currently_learning: ["Golang, Ruby, Docker, C#, Assembly"]
 languages_proficient_in : ["Bash, Python, HTML, CSS, JavaScript, Lua, C, C++..."]
 main_languages : ["Bash, Python, C++"]
-2024 Goals: ["Stay Alive"]
+2024 Goals: ["Live"]
 age: 15
 
 N1NK <3
@@ -60,4 +61,32 @@ HC:E6 >6 :7 J@F 42? C625 E9:D[ :> =@@<:?8 7@C A6@A=6 =:<6 J@F
 
 [![Main Skills](https://skillicons.dev/icons?i=js,html,css,arch,bash,cs,cpp,discord,github,kali,linux,mint,powershell,py,raspberrypi,redhat,ubuntu,vim,visualstudio,vscode,windows,wordpress,git,docker,go,lua)](https://skillicons.dev)
 
+
+
+
+               .--.                _.----._ __
+              /_.--;_..-''''---''``  .:.   `-.`-.
+          c-'`.'.-. '.    '::.  .::.  '::'    '. `)
+        .'o    ((0))       '   ':::'      .::.:. '\
+       (        '-'   .-.      .:'   .::'   '_...._|
+        '._-..__      '-'        .  .:'  .-' .'    '-.
+           `''--;:-_, __,     '::'     .'  .'         \
+             \   ,`""\    /           /   /        / , |
+         \-.__\\/(___|    |`'''-----'`|   |     .-' / /
+          `-.             |       _____\  `     _.-' /
+          `-.-'--`-._   _/     _.;--.   `-  __.:.--'`
+                     `"`      '------';` _.'
+                                     `--`
+
+
+```yaml
+  _ _(_) |__| |__(_) |_   _ _(_) |__| |__(_) |_ 
+ | '_| | '_ \ '_ \ |  _| | '_| | '_ \ '_ \ |  _|
+ |_| |_|_.__/_.__/_|\__| |_| |_|_.__/_.__/_|\__|
+```
+                                                
+
+
+
+                                                                                                                                      
 
