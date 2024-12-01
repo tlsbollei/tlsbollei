@@ -51,6 +51,7 @@ currently_learning: ["Golang, Ruby, Docker, C#, Assembly"]
 languages_proficient_in : ["Bash, Python, HTML, CSS, JavaScript, Lua, C, C++"]
 main_languages : ["Bash, Python, C++"]
 2024 Goals: ["xaxaxa"]
+site : ["https://tlsbollei.github.io/site/ (Will soon include personal BBH recon methodology)"]
 age: 15
 
 questions_to_not_ask:
