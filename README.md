@@ -48,9 +48,9 @@ technical_background:
 contact : ["t.me/boleii655, boleii466@gmail.com"]
 guilty_pleasures : ["Hotplug Tools, On-Site Implants, "]
 currently_learning: ["Golang, Ruby, Docker, C#, Assembly"]
-languages_proficient_in : ["Bash, Python, HTML, CSS, JavaScript, Lua, C, C++..."]
+languages_proficient_in : ["Bash, Python, HTML, CSS, JavaScript, Lua, C, C++"]
 main_languages : ["Bash, Python, C++"]
-2024 Goals: ["Live"]
+2024 Goals: ["xaxaxa"]
 age: 15
 
 questions_to_not_ask:
