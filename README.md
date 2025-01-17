@@ -26,7 +26,7 @@ aspiring_job: Red Teamer/Malware Analysis and Development
 education:
   [
     "Self-Taught Penetration Tester with secondary focus on binary reverse engineering and exploit development",
-    "Fundamental coding knowledge from the age of 12, pursuing a career in cyber from the age of 13",
+    "Pursuing a career in cyber from the age of 13",
     "Just a regular high school student",
   ]
 
