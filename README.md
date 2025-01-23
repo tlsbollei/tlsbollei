@@ -35,6 +35,7 @@ fields_of_interests:
   [
     "Web Application Security - Bug Bounty Hunting",
     "Network Security",
+    "Digital Forensics",
     "Malware analysis, primarily static using Ghidra, rarely dynamic using OllyDbg",
     "WIFI Security, Wireless pentesting",
     "Hardware/Embedded devices",
@@ -49,9 +50,8 @@ contact : ["t.me/boleii655, boleii466@gmail.com"]
 guilty_pleasures : ["Hotplug Tools, On-Site Implants, "]
 currently_learning: ["Golang, Ruby, Docker, C#, Assembly"]
 languages_proficient_in : ["Bash, Python, HTML, CSS, JavaScript, Lua, C, C++"]
-main_languages : ["Bash, Python, C++"]
-2024 Goals: ["xaxaxa"]
-site : ["https://tlsbollei.github.io/site/ (Will soon include personal BBH recon methodology)"]
+main_languages : ["Bash, Python, C"]
+site : ["https://tlsbollei.github.io/site/ (Will soon include personal BBH recon methodology and CTF write-ups)"]
 age: 15
 
 questions_to_not_ask:
