@@ -36,7 +36,8 @@ fields_of_interests:
     "Web Application Security - Bug Bounty Hunting",
     "Network Security",
     "Digital Forensics",
-    "Malware analysis, primarily static using Ghidra, rarely dynamic using OllyDbg",
+    "Malware analysis (Ghidra > IDA, cry)",
+    "Windows Internals, Win32 API",
     "WIFI Security, Wireless pentesting",
     "Hardware/Embedded devices",
     "Physical Security",
@@ -51,7 +52,7 @@ guilty_pleasures : ["Hotplug Tools, On-Site Implants, "]
 currently_learning: ["Golang, Ruby, Docker, C#, Assembly"]
 languages_proficient_in : ["Bash, Python, HTML, CSS, JavaScript, Lua, C, C++"]
 main_languages : ["Bash, Python, C"]
-site : ["https://tlsbollei.github.io/site/ (Will soon include personal BBH recon methodology and CTF write-ups)"]
+site : ["https://tlsbollei.github.io/site/"]
 age: 15
 
 questions_to_not_ask:
@@ -71,7 +72,6 @@ HC:E6 >6 :7 J@F 42? C625 E9:D[ :> =@@<:?8 7@C A6@A=6 =:<6 J@F
 
 ## ⚙️ My Development Environment
 
-I grew up with Windows and it holds a special place in my heart. It’s my go-to operating system for development, where I make extensive use of the Windows Subsystem for Linux (WSL) and the Windows Terminal. 
 
 <table>
   <tr>
