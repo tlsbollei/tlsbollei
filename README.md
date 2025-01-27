@@ -1,5 +1,3 @@
-<img src=https://raw.githubusercontent.com/tlsbollei/NTDLL-Unhook/refs/heads/main/imgs/betterlandscape.png alt="Linux Peas" width="1000" height="350"></a>
-
 
 <a href="https://github.com/tlsbollei">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="30" height="30"/>
