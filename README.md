@@ -19,7 +19,7 @@
 
 ```yaml
 
-located_in: Tomsk, Russia
+located_in: Moscow, Russia
 aspiring_job: Red Teamer/Malware Analysis and Development
 education:
   [
@@ -47,7 +47,7 @@ technical_background:
 
 contact : ["t.me/boleii655, boleii466@gmail.com"]
 guilty_pleasures : ["Hotplug Tools, On-Site Implants, "]
-currently_learning: ["Golang, Ruby, Docker, C#, Assembly"]
+currently_learning: ["Win32 API, C#, Assembly"]
 languages_proficient_in : ["Bash, Python, HTML, CSS, JavaScript, Lua, C, C++"]
 main_languages : ["Bash, Python, C"]
 site : ["https://tlsbollei.github.io/site/"]
