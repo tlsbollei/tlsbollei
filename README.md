@@ -19,7 +19,7 @@
 
 ```yaml
 
-located_in: Moscow, Russia
+located_in: spst komenskeho kurwa
 aspiring_job: Red Teamer/Malware Analysis and Development
 education:
   [
