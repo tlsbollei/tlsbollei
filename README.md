@@ -34,11 +34,9 @@ fields_of_interests:
     "Web Application Security - Bug Bounty Hunting",
     "Network Security",
     "Digital Forensics",
-    "Malware analysis (Ghidra > IDA, cry)",
+    "Malware development and analysis",
     "Windows Internals, Win32 API",
-    "WIFI Security, Wireless pentesting",
-    "Hardware/Embedded devices",
-    "Physical Security",
+    "WIFI Security, Wireless pentesting"
   ]
 technical_background:
   [
@@ -47,7 +45,7 @@ technical_background:
 
 contact : ["t.me/boleii655, boleii466@gmail.com"]
 guilty_pleasures : ["Hotplug Tools, On-Site Implants, "]
-currently_learning: ["Win32 API, C#, Assembly"]
+currently_learning: ["Win32 API, Assembly"]
 languages_proficient_in : ["Bash, Python, HTML, CSS, JavaScript, Lua, C, C++"]
 main_languages : ["Bash, Python, C"]
 site : ["https://tlsbollei.github.io/site/"]
